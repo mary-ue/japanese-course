@@ -12,7 +12,7 @@ undefined
 NaN (Not a Number)
 */
 
-const a = 0;
+const a = "0"; // true
 let result = a ? 10 : -10;
 console.log(result);
 
